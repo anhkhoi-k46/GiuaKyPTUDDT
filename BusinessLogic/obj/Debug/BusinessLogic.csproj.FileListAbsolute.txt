@@ -1,0 +1,9 @@
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\bin\Debug\DataAccess.dll
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\baitap\ToyManagement\toymanagerment_Only1\BusinessLogic\obj\Debug\BusinessLogic.pdb
